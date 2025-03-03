@@ -3,7 +3,7 @@ implementation of the dbscan algorithm in python based on the original research 
 A density-based algorithm for discovering clusters in large spatial databases with noise.
 In Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD'96))
 
-dataset shown in the project documentation come from
+datasets shown in the project documentation come from
 https://github.com/deric/clustering-benchmark
 
 script tests the viability of the dbscan algorithm of a few distinct datasets.
